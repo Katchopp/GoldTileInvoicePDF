@@ -1,12 +1,14 @@
-
 {
-  "name": "pdf-invoice-creator",
+  "name": "goldtile-invoice-pdf",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
+  },
+  "engines": {
+    "node": "18.x"
   },
   "dependencies": {
     "autoprefixer": "^10.4.17",
